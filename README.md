@@ -1,3 +1,4 @@
 # Taniyakhasdeo-demo
-This is my first git repository
-author-Taniya khasdeo
+This is my first git Repository.
+<br>
+Author-Taniya khasdeo
